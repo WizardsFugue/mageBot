@@ -1,0 +1,8 @@
+{
+    "require": {
+        "whisller/irc-bot-bundle": "*",
+
+        "symfony/validator": "~2.3",
+        "silex/silex": "~1.1"
+    }
+}
