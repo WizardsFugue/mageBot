@@ -30,6 +30,7 @@ $user          = array(
 );
 $channels      = array(
     '#magento-de',
+    '#magento-offtopic-de',
     '#magento-dev',
 );
 
